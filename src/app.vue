@@ -1,6 +1,6 @@
 <template>
   <div
-    class="d-flex flex-column justify-center align-center"
+    class="d-flex flex-column justify-center align-center text-center"
     style="height: 100vh; width: 100vw; background-color: rgba(0, 0, 0, 0.3)"
   >
     <p class="text-h2">Camp Gear Review</p>
