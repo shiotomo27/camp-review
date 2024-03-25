@@ -14,7 +14,7 @@
 <style lang="scss">
 body {
   color: white;
-  background-image: url("camping.jpg");
+  background-image: url("/images/camping.jpg");
   background-size: cover;
 }
 </style>
